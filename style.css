@@ -1,0 +1,25 @@
+
+body{
+    background-color:rgba(206, 206, 20, 0.753);
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:80vh;
+    flex-direction:column;
+}
+
+.head{
+    color:white;
+    font-size: 50px;
+}
+
+.emoji{
+    background-color:rgba(29, 28, 28, 0.6);
+    color:rgb(50, 45, 45);
+    height:80px;
+    width:78px;
+    border-radius:50%;
+    text-align:center;   
+}
